@@ -3,6 +3,7 @@ BANNED_REASON=Razão: {0}
 BANNED_EXPIRETIME=Ban expira {0}
 BANNED_EXPIRENEVER=Banido permanentemente.
 CONTEXT_ABOUT=Sobre
+CONTEXT_ADDSERVER=Adicionar server
 CONTEXT_CHECKUPDATE=Verificar atualizações
 CONTEXT_CLOSE=Fechar
 CONTEXT_SETTINGS=Configurações
